@@ -1,5 +1,5 @@
 ---
-title: "My Next Big Project"
+title: "First Blog"
 permalink: /
 layout: default
 ---
